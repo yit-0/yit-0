@@ -5,6 +5,10 @@
 
 Here are some ideas to get you started:
 
+
+## バッジ
+![Threads Follow](https://img.shields.io/badge/Threads-follow-blue-https://www.threads.com/@yit067)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
