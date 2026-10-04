@@ -14,13 +14,11 @@
 </p>
 
 ## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yit-0&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yit-0&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yit-0&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yit-0&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yit-0&theme=gruvbox&utcOffset=9)
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yit-0&theme=gruvbox&animation=sequence)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yit-0&theme=gruvbox&animation=sequence)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yit-0&theme=gruvbox&animation=sequence)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yit-0&theme=gruvbox&animation=sequence)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yit-0&theme=gruvbox&utcOffset=9&animation=draw)
 
 <!--
 **yit-0/yit-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
